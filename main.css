@@ -1,0 +1,46 @@
+#Purple {
+    color : rgb(105, 36, 233)
+}
+
+#Light_blue {
+    color : rgb(236, 29, 46)
+}
+
+
+p {
+    font-size: 24px;
+}
+
+#Naruto {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(134, 219, 202);
+    
+}
+
+a {
+    color: black;
+}
+
+ul {
+    color: rgb(96, 53, 215);
+    font-size: larger;
+}
+
+button {
+    color: black;
+    background-color: white;
+    border-width: 2;
+    border-radius: 8;
+    padding: 15px;
+}
+
+button:hover {
+    background-color: gray;
+}
+
+#like {
+    color: rgb(131, 49, 8);
+}
